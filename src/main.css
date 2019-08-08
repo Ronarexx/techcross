@@ -4,7 +4,7 @@ background-color: #cccccc;
 .jumbotron{
   text-align: center;
   margin: 0 1em;
-  height: 100vh;
+  height: 83%;
   display: flex;
   align-items: center;
 }
